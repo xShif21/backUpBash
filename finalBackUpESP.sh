@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Español
 endColour="\033[0m\e[0m"
 redColour="\e[0;31m\033[1m"
 blueColour="\e[0;34m\033[1m"
